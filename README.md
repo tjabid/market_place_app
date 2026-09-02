@@ -1,4 +1,4 @@
-# Holo Marketplace App
+# Marketplace App - Flutter Project
 
 A modern, scalable, and well-tested e-commerce Flutter application built with Clean Architecture principles. This project serves as a robust template for building feature-rich marketplace apps.
 
@@ -182,8 +182,8 @@ To generate a full test coverage report, use the provided script. This will gene
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/tjabid/holo_market_place_app.git
-    cd holo_market_place_app
+    git clone https://github.com/tjabid/market_place_app.git
+    cd market_place_app
     ```
 
 2.  **Install dependencies:**
